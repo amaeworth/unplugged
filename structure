@@ -1,0 +1,40 @@
+Header
+  -Logo
+  -Nav
+     -Concerts icon
+     -Concerts
+     -Reviews icon
+     -Reviews
+     -About Us icon
+     -About Us
+     -FAQ icon
+     -FAQ
+Content
+  -Top news
+    -Top news photo
+    -Top news title
+    -Top news summary
+  -Sidebar
+    -Newsletter signup
+      -sign up title
+      -input box for email
+      -sign up button
+    -Upcoming concerts
+      -upcoming concerts title
+      -upcoming concerts description
+      -upcoming concerts icon
+      -see all button
+    -FAQs
+       -FAQ title
+       -FAQ description
+       -FAQ icon
+       -FAQ button
+  -Recent news
+    -recent news title
+    --Each article (6)
+      -news title for article
+      -article picture
+      -article title
+      -article description
+Footer
+  -Logo
